@@ -1,0 +1,16 @@
+{
+  "name": "B'shert Setbook",
+  "short_name": "B'shert",
+  "description": "Repertorio, setlists y modo en vivo para B'shert.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f7efe2",
+  "theme_color": "#231a16",
+  "icons": [
+    {
+      "src": "./assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "bshert-setbook",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Aplicativo web para repertorio, setlists y modo en vivo de B'shert.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "serve": "npx serve .",
+    "deploy": "firebase deploy"
+  },
+  "devDependencies": {
+    "vite": "latest"
+  }
+}
